@@ -115,7 +115,7 @@
       "#872626"
     ],
     "INTERACTIVE_HOVER": [
-      "#610000"
+      "#3d007a"
     ],
     "INTERACTIVE_MUTED": [
       "#7e2020"
@@ -211,13 +211,13 @@
       "#faa61a4d"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#330000"
+      "#2b2b2b"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#330000"
+      "#2b2b2b"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
@@ -251,7 +251,7 @@
     "BRAND_460": "#872626",
     "BRAND_500": "#872626",
     "BRAND_530": "#872626",
-    "BRAND_560": "#610000",
+    "BRAND_560": "#3d007a",
     "BRAND_600": "#872626",
     "BRAND_630": "#872626",
     "BRAND_660": "#872626",
@@ -280,7 +280,7 @@
     "PRIMARY_300": "#872626",
     "PRIMARY_330": "#adadad",
     "PRIMARY_360": "#872626",
-    "PRIMARY_400": "#610000",
+    "PRIMARY_400": "#3d007a",
     "PRIMARY_460": "#260303",
     "PRIMARY_500": "#872626",
     "PRIMARY_530": "#872626",
